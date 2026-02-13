@@ -1,0 +1,3 @@
+com.tarea1.App -> com.tarea1.App:
+    void <init>() -> <init>
+    void main(java.lang.String[]) -> main
